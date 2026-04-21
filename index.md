@@ -1,3 +1,4 @@
+# Waypoint Nomad
 # Support
 
 Need help? We're here.
