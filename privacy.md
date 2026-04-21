@@ -1,3 +1,4 @@
+# Waypoint Nomad
 # Privacy Policy
 
 **Last updated: April 2026**
