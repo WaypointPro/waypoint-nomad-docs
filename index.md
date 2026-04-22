@@ -33,7 +33,7 @@ Open the iOS Settings app, then:
 
 1. Tap your name at the top
 2. Tap Subscriptions
-3. Tap Waypoint Nomad
+3. Tap WaypointNomad
 4. Tap Cancel Subscription
 
 Your access continues until the end of the current billing period.
