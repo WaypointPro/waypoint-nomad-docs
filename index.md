@@ -26,7 +26,6 @@ Free accounts can drop up to 5 waypoints. Upgrade to WaypointNomad Pro to drop u
 - Unlimited comments
 - See which nomads have checked in at each spot
 - Plan a Trip — curated itineraries by destination
-- Pin notifications when your waypoints get comments
 
 **How do I cancel my subscription?**
 Open the iOS Settings app, then:
